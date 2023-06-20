@@ -7,9 +7,27 @@ img {
   height: 100px;
 }
 
+.widget {
+  font-weight: 100;
+  display: flex;
+  gap: 3rem;
+  flex: 1;
+  justify-content: center;
+}
+
+.widget .items {
+  text-align: center;
+}
+
+.text {
+  max-width: 20ch;
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
+  margin-bottom: 2rem;
 }
 
 /* do not edit this footer */

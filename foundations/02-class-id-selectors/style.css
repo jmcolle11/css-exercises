@@ -1,0 +1,23 @@
+body {
+  font-family: "Verdana", sans-serif;
+}
+
+p {
+  background-color: lightpink;
+  font-size: 1.25rem;
+}
+
+p.cooler {
+  font-size: 2rem;
+}
+
+#blue-text {
+  color: rgb(0, 0, 255);
+  font-size: 2.5rem;
+}
+
+#green-bg {
+  background-color: rgb(144, 238, 144);
+  font-size: 2rem;
+  font-weight: 700;
+}
